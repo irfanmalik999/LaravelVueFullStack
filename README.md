@@ -46,6 +46,15 @@
 
 * 9th --- Run " npm run dev " it uses to compile vue.js part " 
 
+# 10th --- Finally You are able to explore the Website 
+
+
+
+
+## After Running the Project on Home Page You can Login and Register
+
+
+
 
 
 
