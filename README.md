@@ -16,8 +16,7 @@
 * 3rd --- Node.js & npm should be Installed in System.
 * 4th --- Laravel should be Installed in system using " composer global require laravel/installer ". 
 * 5th --- Set Up a Database  SQLite while Installing the Laravel.
-* 6th --- XAMPP should be Installed and it contains server "Apache" and "MySQL" should be start.
-* 7th --- 
+* 6th --- XAMPP should be Installed and it contains server "Apache" and "MySQL" which should be start.
 
 
 
@@ -52,6 +51,8 @@
 
 
 ## After Running the Project on Home Page You can Login and Register
+
+*   then after logged in you can perform the CRUD Operation and Search Filter Aut and so on
 
 
 
