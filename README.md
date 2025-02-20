@@ -16,13 +16,13 @@
 * 3rd --- Node.js & npm should be Installed in System.
 * 4th --- Laravel should be Installed in system using " composer global require laravel/installer ". 
 * 5th --- Set Up a Database  SQLite while Installing the Laravel.
-* 6th --- XAMPP should be Installed and it contains server "Apache" and "MySQL" which should be start.
+* 6th --- XAMPP should be Installed and it contains server "Apache" and "MySQL" which should be started.
 
 
 
 
 
-## Step to Clone and run this Project in you System.
+## Steps to Clone and run this Project in you System.
 
 
 * 0th --- Clone the Project using  "git clone https://github.com/irfanmalik999/LaravelVueFullstack1.git / github repo link ".
@@ -52,7 +52,7 @@
 
 ## After Running the Project on Home Page You can Login and Register
 
-*   then after logged in you can perform the CRUD Operation and Search Filter Aut and so on
+*   then after logged in you can perform the CRUD Operation and Search Filter Auth and so on
 
 
 
